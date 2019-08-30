@@ -4,7 +4,7 @@
 #
 Name     : mvn-avalon-framework
 Version  : 4.1.3
-Release  : 2
+Release  : 3
 URL      : https://repo1.maven.org/maven2/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.jar
 Source0  : https://repo1.maven.org/maven2/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.jar
 Source1  : https://repo1.maven.org/maven2/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.pom
